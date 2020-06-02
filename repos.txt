@@ -1,0 +1,31 @@
+BigBoss: http://apt.thebigboss.org/repofiles/cydia/
+ZodTTD & MacCiti: http://cydia.zodttd.com/repo/cydia/
+Bingner/Elucubratus: https://apt.bingner.com/
+MidnightChips: https://repo.midnightchips.me/
+PixelOmer’s: https://repo.pixelomer.com/
+ModMyi: http://apt.modmyi.com/
+nullpixel’s: https://repo.nullpixel.uk/
+Evelyn’s Collection: https://evynw.github.io/
+ConorTheDev: https://repo.conorthedev.com/
+SparkDev: https://www.sparkdev.me/
+dgh0st: https://dgh0st.github.io/
+UnlimApps: https://beta.unlimapps.com/
+Tela: https://telaaedifex.com/repo/
+Karen’s: https://cydia.angelxwind.net/
+xtm3x: https://xtm3x.github.io/repo/
+Samg is a ninja: https://samgisaninja.github.io/
+Packix: https://repo.packix.com/
+rko1195: https://rko1195.com/cydia/
+Nepeta: https://repo.nepeta.me/
+Julioverne: http://julioverne.github.io/
+C1d3r: http://c1d3r.com/repo/
+Dynastic: https://repo.dynastic.co/
+iDevice Hacked: https://idevicehacked.com/
+Limneos: http://limneos.net/repo/
+eXqusic’s: http://exqusic.com/
+Chariz: https://repo.chariz.io/
+TDMD: https://tdmd.github.io/
+XenPublic: http://xenpublic.incendo.ws/
+Ichitaso’s: https://cydia.ichitaso.com/
+AppCake: http://cydia.iphonecake.com
+HackYouriPhone: http://repo.hackyouriphone.org
